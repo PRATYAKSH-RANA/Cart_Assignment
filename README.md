@@ -1,6 +1,8 @@
 Interactive Shopping Cart web app built using HTML, CSS, and Vanilla JavaScript. Features dynamic product cards, add/remove cart items, quantity control, real-time total calculations, price-based styling, and live product search using DOM manipulation and events.
 
 Probelem Description:
+
+
 1.View Products: Display a list of pre-defined products (e.g., mobile, laptop, headphones) with their name and price. Products  should be displayed as styled cards using HTML and CSS.
 2. Add and Remove Items: Each product card must have an 'Add to Cart' button. When clicked, the product should appear in the   cart dynamically. Each cart item should show product name, price,quantity, and subtotal. Cart items should have options to increase quantity (+), decrease quantity(-), and remove item completely.
 3.Cart Calculations: Use JavaScript operators (+, -, *, /, comparison operators) to update totals. Implement a function calculateTotal() that recalculates total items and total price of the cart.
