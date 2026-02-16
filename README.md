@@ -22,4 +22,3 @@ real-time. Totals are automatically updated using JavaScript operators. Products
 the search bar. Application runs completely on the client side (HTML, CSS, JavaScript only).
 
 
-Explaination:
